@@ -12,4 +12,4 @@ Note:
 # Average Interest Rate by Loan Purpose
 ![Alt text](case_1_plot_images/avg_rate_by_purpose.png)
 # Loan Purposes Percentages
-![Alt text](case_1_plot_images/loan_purposes_percentages.png)
+![Alt text](case_1_plot_images/num_of_loans per state.png)
